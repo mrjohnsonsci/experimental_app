@@ -15,7 +15,7 @@ $ cd ~/tmp
 $ git clone https://bitbucket.org/railstutorial/sample_app_4th_ed.git sample_app
 $ cd sample_app
 $ bundle install --without production
-```
+```  
 
 Next, migrate the database:
 
